@@ -1,0 +1,56 @@
+* {
+   margin: 0; 
+   padding: 0;
+   background-color: gray;
+    
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.azul {
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+    
+    
+
+}
+
+.vermelha {
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    
+}
+
+.preta {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    
+}
+.verde {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+   
+}
+.amarela {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    
+}
